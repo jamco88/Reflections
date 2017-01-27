@@ -1,0 +1,31 @@
+Q1: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+By placing the relevant areas ( ie ones with differences) side by side, this allowed me to skip the tediouis false positives that form the bulk of manual cross referencing
+
+Q2: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Easily spot mistakes and patterns
+
+Q3:What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+It is important for the user to actively be aware of the commit process and to put some effort into deciding what makes a good point to commit- others will be using their work. This is a con because it requires judgement from the user but also a pro because the alternative (auto commits) means that the commit history will be way too long and possibly irrelevant.
+
+Q4:Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because Git is designed to be used by teams / colla borative coding environments involivng multiple documents that might require interdependencies between these files to be tracked. 
+
+Q5:How can you use the commands git log and git diff to view the history of files?
+
+Use Git Log first to get the commit list (this is ordered from last to first in descending order)
+
+Use git diff to compare the changes between two commit IDs - as a rule from now on I will be using the convention that the previous ID comes first and the new ID comes second.
+
+Q6: How might using version control make you more confident to make changes that could break something?
+
+Because it doesnt matter if you do break something - you can always go back and checkout a working / previous / older version of the repository.
+
+$ git config --global core.editor "'C:/Program Files/Sublime Text 3/sublime_text.exe' -n -w"
+
+Q5: Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use git to help me get an awesome cool job and maybe make cool games as a hobby
