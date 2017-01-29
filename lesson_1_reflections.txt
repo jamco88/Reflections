@@ -28,4 +28,4 @@ $ git config --global core.editor "'C:/Program Files/Sublime Text 3/sublime_text
 
 Q5: Now that you have your workspace set up, what do you want to try using Git for?
 
-I want to use git to help me get an awesome cool job and maybe make cool games as a hobby
+I want to use git to help me get an awesome cool job and maybe make cool games as a hobby and also perhaps contribute to open source once the bills are paid
