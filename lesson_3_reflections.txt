@@ -25,7 +25,9 @@ it was production quality.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    This gives you a source you can refer back to as being the state of the repository when it was last checked out.
+	IE you can then compare your commits to this, and it forms a common ancestor with any
+	subsequent commits anyone else makes on the main branch.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
