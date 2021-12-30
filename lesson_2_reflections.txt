@@ -1,3 +1,6 @@
+THE VICE CHAIR IS HERE! I TAKE CHAARGE!
+
+
 Q1 What happens when you initialize a repository? Why do you need to do it?
 
 It sets up the hidden Git repository file. Otherwise your shit wont save.
